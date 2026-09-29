@@ -84,11 +84,18 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ initialService =
               <div>
                 <span className="text-neutral-400 block mb-1">DIRECT INQUIRY</span>
                 <a
-                  href="mailto:architecture@tristorsolutions.com"
+                  href="mailto:support@tristorsolutions.ca"
                   className="text-sm font-sans font-medium text-black hover:underline"
                 >
-                  architecture@tristorsolutions.com
+                  support@tristorsolutions.ca
                 </a>
+              </div>
+
+              <div>
+                <span className="text-neutral-400 block mb-1">SECONDARY CONTACT</span>
+                <span className="text-sm font-sans text-neutral-700">
+                  nicholas@tristorsolutions.ca
+                </span>
               </div>
 
               <div>

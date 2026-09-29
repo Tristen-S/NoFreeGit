@@ -38,10 +38,10 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               );
             })}
             <a
-              href="mailto:architecture@tristorsolutions.com"
+              href="mailto:support@tristorsolutions.ca"
               className="hover:text-black transition-colors"
             >
-              architecture@tristorsolutions.com
+              support@tristorsolutions.ca
             </a>
           </div>
 
